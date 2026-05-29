@@ -1,6 +1,10 @@
 # Hey, I'm George 👋
+## 🧠 About Me
 
-### 🛡️ Cybersecurity & Cloud Security Analyst Enthusiast
+- 🛡️ Cybersecurity & Cloud Security Analyst Enthusiast
+- 🛠️ Hands-on experience with web pentesting, mobile APK analysis, API security, and Python/Bash scripting
+- 🤖 Built an automated AI threat intelligence feed that delivers daily cybersecurity news via n8n
+
 📍 Nairobi, Kenya  
 
  "Securing clouds because humans keep clicking suspicious links."
