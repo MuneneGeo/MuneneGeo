@@ -10,6 +10,9 @@
  "Securing clouds because humans keep clicking suspicious links."
 
 ---
+## 🏅 Certifications & Badges
+(https://images.credly.com/size/220x220/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/5a65d421-10db-4931-9807-24d420e09eeb/public_url)
+
 
 ## 🚀 Featured Projects
 
