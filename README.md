@@ -26,7 +26,17 @@ Conducted a comprehensive, full-stack security review targeting mobile applicati
 **Tools Used:** JADX-GUI | MobSF | Burp Suite | FFUF | Dirbuster | Android Debug Bridge (ADB)
 
 ---
+### 🧠 AI-Powered Threat Intelligence Feed
 
+Designed and deployed a fully automated cybersecurity threat intelligence pipeline that delivers daily news and threat updates with zero manual intervention.
+
+**Key Achievements:**
+- Built end-to-end workflow automation using n8n to aggregate, filter, and distribute real-world threat intelligence.
+- Integrated Flowise AI and LLMs to process and summarize cybersecurity content automatically.
+- Demonstrates practical application of AI tooling to real-world security operations (SOC/threat intel) workflows.
+
+**Tools & Tech:** n8n | Flowise AI | LLMs | REST APIs
+--
 ### 🤖 Automated Reconnaissance Pipeline with Real-Time Threat Alerts
 
 Developed a modular Python automation script to streamline target domain intelligence gathering and asset discovery.
@@ -70,7 +80,7 @@ Engineered local and network-accessible infrastructure topologies focusing on ac
 |---|---|
 | Security Domains | Threat Intelligence, OSINT, Cyber Threat Analysis, Network Defense, Penetration Testing |
 | Languages & Scripting | Python, Bash |
-| Platforms & Infrastructure | Linux Administration, Basic Cloud Security |
+| Platforms & Infrastructure | Linux Administration, AWS Cloud Security |
 | Security Tooling | Burp Suite, MobSF, JADX-GUI, ADB, FFUF, Subfinder, HTTPX |
 
 ---
