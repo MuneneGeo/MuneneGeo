@@ -35,7 +35,7 @@ Designed and deployed a fully automated cybersecurity threat intelligence pipeli
 - Integrated Flowise AI and LLMs to process and summarize cybersecurity content automatically.
 - Demonstrates practical application of AI tooling to real-world security operations (SOC/threat intel) workflows.
 
-**Tools & Tech:** n8n | Flowise AI | LLMs | REST APIs
+**Tools & Tech:** n8n |  LLMs | REST APIs
 --
 ### 🤖 Automated Reconnaissance Pipeline with Real-Time Threat Alerts
 
