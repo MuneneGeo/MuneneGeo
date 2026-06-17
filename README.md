@@ -101,7 +101,6 @@ Engineered local and network-accessible infrastructure topologies focusing on ac
 | [![AfricaHackOn Cyber Security Swara](https://images.credly.com/size/220x220/images/7e689474-ac2f-4591-859f-84a9dfe8c4f9/blob)](https://www.credly.com/badges/8049bac2-2da2-468d-bf63-6f4a197cc1f6/public_url) <br> AfricaHackOn Cyber Security Swara | Africahackon Academy | Awarded for completing the 6-month intensive cybersecurity program — covering hands-on training, real-world simulations, and expert mentorship. |
 | AfricaHackon Academy Cybersecurity Certificate | Africahackon Academy | Cohort 4 graduate — Threat Intelligence Lead, Squad 4 |
 | [![Cisco Networking Basics](https://images.credly.com/size/220x220/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/5a65d421-10db-4931-9807-24d420e09eeb/public_url) <br> Cisco Networking Basics | Cisco | Foundational networking concepts and protocols |
-| Cisco Cybersecurity and Social Programme | Cisco | Cybersecurity fundamentals and digital citizenship |
 
 ---
 
